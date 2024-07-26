@@ -41,8 +41,8 @@ input::-ms-clear{display: none;}
 	margin-left: auto;
   margin-right: auto;
 	border: 3px solid #000;
-	box-shadow: 20px 20px 15px 15px #000;
-	border-radius:10px 20px 10px 20px;
+	box-shadow: 20px 20px 20px 20px #000;
+	border-radius:20px 20px 20px 20px;
 }
 	
 .front,
@@ -53,8 +53,8 @@ input::-ms-clear{display: none;}
 	backface-visibility: hidden;
 	position: absolute;
 	transition: transform .7s linear;
-	box-shadow: 20px 20px 15px 15px #000;
-	border-radius:10px 20px 10px 20px;
+	box-shadow: 20px 20px 20px 20px #000;
+	border-radius: 20px 20px 20px 20px;
 }
 
 .front img {
@@ -63,8 +63,8 @@ input::-ms-clear{display: none;}
 	width: 100%;
 	margin-left: auto;
   margin-right: auto;
-	box-shadow: 20px 20px 15px 15px #000;
-	border-radius:10px 20px 10px 20px;
+	box-shadow: 20px 20px 20px 20px #000;
+	border-radius:20px 20px 20px 20px;
 }
 
 .front {
