@@ -52,7 +52,7 @@ input::-ms-clear{display: none;}
 	overflow: hidden;
 	backface-visibility: hidden;
 	position: absolute;
-	transition: transform .6s linear;
+	transition: transform .7s linear;
 	box-shadow: 20px 20px 15px 15px #000;
 	border-radius:10px 20px 10px 20px;
 }
