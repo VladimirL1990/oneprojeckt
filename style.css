@@ -35,10 +35,9 @@ input::-ms-clear{display: none;}
 
 .card-3d {
 	.card-3d {
-	position: absolute;
-	top: 100px; 
-	left: 250px;
 	cursor: pointer;
+	position: relative;
+	top: 100px; 
 	width: 60%;
 	height: 60%;
 	margin-left: auto;
