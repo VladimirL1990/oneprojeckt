@@ -38,6 +38,18 @@ input::-ms-clear{display: none;}
 	cursor: pointer;
 	width: 80%;
 	height: 80%;
+	  width:200px;
+  line-height:80px;
+  border-radius:16px;
+  background:#ff2c00;
+  box-shadow:inset -5px -5px 5px 0 rgba(0,0,0,.5), 
+             inset 5px 5px 5px 0 rgba(255,255,255,0.5);
+  font-size:40px;
+  text-align:center;
+  font-family:"Myriad Pro", Arial, Helvetica, sans-serif;
+  text-transform:uppercase;
+  color:#333;
+  margin:50px auto
 
 	
 }
